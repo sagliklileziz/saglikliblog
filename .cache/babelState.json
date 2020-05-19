@@ -5,6 +5,18 @@
         {
           "name": "/Users/cem/Desktop/saglikliblog/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js",
           "options": {}
+        },
+        {
+          "name": "/Users/cem/Desktop/saglikliblog/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
+          "options": {}
+        },
+        {
+          "name": "/Users/cem/Desktop/saglikliblog/node_modules/@babel/plugin-proposal-nullish-coalescing-operator/lib/index.js",
+          "options": {}
+        },
+        {
+          "name": "/Users/cem/Desktop/saglikliblog/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
+          "options": {}
         }
       ],
       "presets": [
@@ -13,6 +25,12 @@
           "options": {
             "sourceMap": false,
             "autoLabel": false,
+            "plugins": []
+          }
+        },
+        {
+          "name": "/Users/cem/Desktop/saglikliblog/node_modules/@babel/preset-typescript/lib/index.js",
+          "options": {
             "plugins": []
           }
         }
@@ -27,6 +45,18 @@
         {
           "name": "/Users/cem/Desktop/saglikliblog/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js",
           "options": {}
+        },
+        {
+          "name": "/Users/cem/Desktop/saglikliblog/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
+          "options": {}
+        },
+        {
+          "name": "/Users/cem/Desktop/saglikliblog/node_modules/@babel/plugin-proposal-nullish-coalescing-operator/lib/index.js",
+          "options": {}
+        },
+        {
+          "name": "/Users/cem/Desktop/saglikliblog/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
+          "options": {}
         }
       ],
       "presets": [
@@ -35,6 +65,12 @@
           "options": {
             "sourceMap": false,
             "autoLabel": false,
+            "plugins": []
+          }
+        },
+        {
+          "name": "/Users/cem/Desktop/saglikliblog/node_modules/@babel/preset-typescript/lib/index.js",
+          "options": {
             "plugins": []
           }
         }
@@ -49,6 +85,18 @@
         {
           "name": "/Users/cem/Desktop/saglikliblog/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js",
           "options": {}
+        },
+        {
+          "name": "/Users/cem/Desktop/saglikliblog/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
+          "options": {}
+        },
+        {
+          "name": "/Users/cem/Desktop/saglikliblog/node_modules/@babel/plugin-proposal-nullish-coalescing-operator/lib/index.js",
+          "options": {}
+        },
+        {
+          "name": "/Users/cem/Desktop/saglikliblog/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
+          "options": {}
         }
       ],
       "presets": [
@@ -57,6 +105,12 @@
           "options": {
             "sourceMap": false,
             "autoLabel": false,
+            "plugins": []
+          }
+        },
+        {
+          "name": "/Users/cem/Desktop/saglikliblog/node_modules/@babel/preset-typescript/lib/index.js",
+          "options": {
             "plugins": []
           }
         }
@@ -71,6 +125,18 @@
         {
           "name": "/Users/cem/Desktop/saglikliblog/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js",
           "options": {}
+        },
+        {
+          "name": "/Users/cem/Desktop/saglikliblog/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
+          "options": {}
+        },
+        {
+          "name": "/Users/cem/Desktop/saglikliblog/node_modules/@babel/plugin-proposal-nullish-coalescing-operator/lib/index.js",
+          "options": {}
+        },
+        {
+          "name": "/Users/cem/Desktop/saglikliblog/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
+          "options": {}
         }
       ],
       "presets": [
@@ -79,6 +145,12 @@
           "options": {
             "sourceMap": false,
             "autoLabel": false,
+            "plugins": []
+          }
+        },
+        {
+          "name": "/Users/cem/Desktop/saglikliblog/node_modules/@babel/preset-typescript/lib/index.js",
+          "options": {
             "plugins": []
           }
         }

@@ -1,15 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: 'Saglikli Leziz',
+    title: 'Sağlıklı Leziz',
     description:
-      'Saglikli ve Leziz Tariflerin Adresi',
+      'Sağlıklı ve Leziz Tariflerin Adresi',
     url: 'https://www.youtube.com/channel/UCuzgqx1I2waTpEjYDJiptXA',
-    author: 'Saglikli Leziz',
+    author: 'Sağlıklı Leziz',
     image: 'static/og-image.jpg',
-    intro: 'Saglikli ve Leziz Tariflerin Adresi',
+    intro: 'Sağlıklı ve Leziz Tariflerin Adresi',
     menuLinks: [
       {
-        name: 'Saglikli Leziz',
+        name: 'Sağlıklı Leziz',
         slug: '/',
       },
       {
@@ -46,5 +46,6 @@ module.exports = {
         icon: require.resolve('./src/images/favicon.png'),
       },
     },
+
   ],
 }

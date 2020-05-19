@@ -15,7 +15,7 @@ var plugins = [{
       options: {"plugins":[]},
     },{
       plugin: require('/Users/cem/Desktop/saglikliblog/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"Gatsby Theme Amsterdam","short_name":"Amsterdam","background_color":"#f5f0eb","theme_color":"#f5f0eb","start_url":"/","display":"standalone","postsPerPage":4,"icon":"/Users/cem/Desktop/saglikliblog/src/images/favicon.png"},
+      options: {"plugins":[],"name":"Gatsby Theme Amsterdam","short_name":"Amsterdam","background_color":"#f5f0eb","theme_color":"#f5f0eb","start_url":"/","display":"standalone","postsPerPage":4,"icon":"/Users/cem/Desktop/saglikliblog/src/images/favicon.png","cache_busting_mode":"query","include_favicon":true,"legacy":true,"theme_color_in_head":true,"cacheDigest":"1918e3feacf878a21f2f1cd693d04908"},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [
