@@ -45,8 +45,8 @@ const Content = styled.div`
 const HakkimizdaPage = ({ data }) => {
   return (
     <Container>
-      <SEO title="Hakkimizda" description="This is just an about page" />
-      <Title>Hakkimizda</Title>
+      <SEO title="Hakkımızda" description="Hakkımızda Sayfası" />
+      <Title>Hakkımızda</Title>
       <Content>
         <p>
           Yaratıcı tariflerin yoğunlukta olduğu, sağlıklı ve

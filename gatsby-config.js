@@ -13,7 +13,7 @@ module.exports = {
         slug: '/',
       },
       {
-        name: 'Hakkimizda',
+        name: 'Hakkımızda',
         slug: '/hakkimizda/',
       },
     ],
